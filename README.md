@@ -33,4 +33,3 @@ pip install pandas matplotlib
 ## Before running
 
 The script reads a file named `a.csv`, but the data file in this repository is named `CSV`. Rename the data file to `a.csv`, or change the filename in the first lines of the script, before running it.
-This is the code to obtein the graphics about the 5 microRNA 
