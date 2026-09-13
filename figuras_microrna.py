@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Leer CSV
-df = pd.read_csv('a.csv')
+df = pd.read_csv('mirnas.csv')
 
 # Calcular longitud de secuencia
 df['Length'] = df['Sequence'].apply(len)
